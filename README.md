@@ -1,6 +1,6 @@
 # Julio Pradenas
 
-**Data Scientist & ML Engineer** — construyo sistemas end-to-end que van desde los datos crudos hasta producción.
+**Data Scientist & ML ** — construyo sistemas end-to-end que van desde los datos crudos hasta producción.
 
 Me especializo en riesgo crediticio, detección de fraude y analítica de negocio. Cada proyecto incluye API, tests y CI/CD.
 
