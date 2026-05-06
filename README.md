@@ -11,8 +11,7 @@ Me especializo en riesgo crediticio, detección de fraude y analítica de negoci
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
 | [credit-scoring-ml](https://github.com/JulioPradenas/credit-scoring-ml) | Scoring crediticio completo: scorecard WoE, XGBoost + Optuna, explicabilidad SHAP, FastAPI | XGBoost · SHAP · FastAPI · Docker | [Demo](https://credit-scoring-ml-vzrhysf4yc82rka48vzptk.streamlit.app) |
-| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con desbalanceo extremo de clases (0.17% fraude), optimizado con PR-AUC | LightGBM · SMOTE · Streamlit · FastAPI | — |
-| [planta_solar](https://github.com/JulioPradenas/planta_solar) | Predicción de generación fotovoltaica de paneles solares con machine learning | scikit-learn · pandas | — |
+| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con desbalanceo extremo de clases (0.17% fraude), optimizado con PR-AUC | LightGBM · SMOTE · Streamlit · FastAPI | — | |
 | [staff-sizing-portfolio](https://github.com/JulioPradenas/staff-sizing-portfolio) | Analítica de dotación de personal y planificación de headcount | BigQuery · GCP · Looker Studio | — |
 | [latam-uniforms-portfolio](https://github.com/JulioPradenas/latam-uniforms-portfolio) | Analítica comercial para negocio de uniformes LATAM | BigQuery · GCP · Looker Studio | — |
 
