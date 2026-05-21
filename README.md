@@ -10,6 +10,7 @@ Me especializo en riesgo crediticio, detección de fraude y analítica de negoci
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
+| [meli-shipping-forecast](https://github.com/JulioPradenas/meli-shipping-forecast)     | Pronóstico de demanda de envíos por estado brasileño: LightGBM + Conformal Prediction, intervalos calibrados al 90%, FastAPI y cost-aware recommendations | LightGBM · Conformal · FastAPI · Streamlit | [Demo](https://meli-shipping-forecast.streamlit.app/) |
 | [credit-scoring-ml](https://github.com/JulioPradenas/credit-scoring-ml) | Scoring crediticio completo: scorecard WoE, XGBoost + Optuna, explicabilidad SHAP, FastAPI | XGBoost · SHAP · FastAPI · Docker | [Demo](https://credit-scoring-ml-vzrhysf4yc82rka48vzptk.streamlit.app) |
 | [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con desbalanceo extremo de clases (0.17% fraude), optimizado con PR-AUC | LightGBM · SMOTE · Streamlit · FastAPI | — | |
 | [staff-sizing-portfolio](https://github.com/JulioPradenas/staff-sizing-portfolio) | Analítica de dotación de personal y planificación de headcount | BigQuery · GCP · Looker Studio | — |
