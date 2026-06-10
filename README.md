@@ -8,6 +8,19 @@ Actualmente: Data Scientist en el sector energía solar (Azure ML · Power BI)
 
 ---
 
+### Proyectos de portafolio
+
+| Proyecto | Qué resuelve | Resultado clave |
+|---|---|---|
+| [anomaly-detection-llm](https://github.com/JulioPradenas/anomaly-detection-llm) | Detección de anomalías en logs IT + agente LLM con memoria | F1 = 0.947 · LOF · LangGraph · Evidently · 90 tests |
+| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con costo asimétrico y threshold tuning | LightGBM + XGBoost · FastAPI · 44 tests |
+| [Hierarchical-Demand-Forecasting-System](https://github.com/JulioPradenas/Hierarchical-Demand-Forecasting-System) | Forecasting jerárquico 3.049 series · 6 niveles | MinT reconciliation · DuckDB · 135 tests |
+| [meli-shipping-forecast](https://github.com/JulioPradenas/meli-shipping-forecast) | Demanda de envíos · 27 estados · dataset Olist | WAPE 0.4042 · conformal prediction · Streamlit deployado |
+| [credit-scoring-ml](https://github.com/JulioPradenas/credit-scoring-ml) | Scoring crediticio end-to-end: scorecard WoE/IV + XGBoost, score estilo FICO, explicabilidad SHAP | AUC-ROC = 0.866 · Optuna · FastAPI · Streamlit deployado |
+| [staff-sizing-portfolio](https://github.com/JulioPradenas/staff-sizing-portfolio) | Analítica de dotación de personal y planificación de headcount | BigQuery · GCP · Looker Studio |
+
+---
+
 ### Stack
 
 **ML & modelado**
@@ -44,19 +57,6 @@ Actualmente: Data Scientist en el sector energía solar (Azure ML · Power BI)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logoColor=white)
-
----
-
-### Proyectos de portafolio
-
-| Proyecto | Qué resuelve | Resultado clave |
-|---|---|---|
-| [anomaly-detection-llm](https://github.com/JulioPradenas/anomaly-detection-llm) | Detección de anomalías en logs IT + agente LLM con memoria | F1 = 0.947 · LOF · LangGraph · Evidently · 90 tests |
-| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con costo asimétrico y threshold tuning | LightGBM + XGBoost · FastAPI · 44 tests |
-| [Hierarchical-Demand-Forecasting-System](https://github.com/JulioPradenas/Hierarchical-Demand-Forecasting-System) | Forecasting jerárquico 3.049 series · 6 niveles | MinT reconciliation · DuckDB · 135 tests |
-| [meli-shipping-forecast](https://github.com/JulioPradenas/meli-shipping-forecast) | Demanda de envíos · 27 estados · dataset Olist | WAPE 0.4042 · conformal prediction · Streamlit deployado |
-| [credit-scoring-ml](https://github.com/JulioPradenas/credit-scoring-ml) | Scoring crediticio end-to-end: scorecard WoE/IV + XGBoost, score estilo FICO, explicabilidad SHAP | AUC-ROC = 0.866 · Optuna · FastAPI · Streamlit deployado |
-| [staff-sizing-portfolio](https://github.com/JulioPradenas/staff-sizing-portfolio) | Analítica de dotación de personal y planificación de headcount | BigQuery · GCP · Looker Studio |
 
 ---
 
