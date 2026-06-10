@@ -1,51 +1,37 @@
-# Julio Pradenas
+## Julio Pradenas — Data Scientist
 
-**Data Scientist & ML** — construyo sistemas end-to-end que van desde los datos crudos hasta producción.
+Sistemas ML end-to-end: desde feature engineering hasta APIs en producción,
+con foco en detección de anomalías, forecasting jerárquico y LLMs locales.
 
-Me especializo en riesgo crediticio, detección de fraude y analítica de negocio. Cada proyecto incluye API, tests y CI/CD.
-
----
-
-## Proyectos destacados
-
-| Proyecto | Descripción | Stack | Demo |
-|---|---|---|---|
-| [meli-shipping-forecast](https://github.com/JulioPradenas/meli-shipping-forecast)     | Pronóstico de demanda de envíos por estado brasileño: LightGBM + Conformal Prediction, intervalos calibrados al 90%, FastAPI y cost-aware recommendations | LightGBM · Conformal · FastAPI · Streamlit | [Demo](https://meli-shipping-forecast.streamlit.app/) |
-| [credit-scoring-ml](https://github.com/JulioPradenas/credit-scoring-ml) | Scoring crediticio completo: scorecard WoE, XGBoost + Optuna, explicabilidad SHAP, FastAPI | XGBoost · SHAP · FastAPI · Docker | [Demo](https://credit-scoring-ml-vzrhysf4yc82rka48vzptk.streamlit.app) |
-| [pricing-health-check-mlc](https://github.com/JulioPradenas/pricing-health-check-mlc) | Auditoría de pricing y análisis competitivo para seller PYME en MercadoLibre Chile: elasticidad descriptiva, simulación de 3 escenarios de repricing, insight contraintuitivo (bandits destruye margen, reglas simples generan +$12.6M CLP) | Python · MELI API · pandas · LightGBM | — |
-| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con desbalanceo extremo de clases (0.17% fraude), optimizado con PR-AUC | LightGBM · SMOTE · Streamlit · FastAPI | — | |
-| [staff-sizing-portfolio](https://github.com/JulioPradenas/staff-sizing-portfolio) | Analítica de dotación de personal y planificación de headcount | BigQuery · GCP · Looker Studio | — |
-| [latam-uniforms-portfolio](https://github.com/JulioPradenas/latam-uniforms-portfolio) | Analítica comercial para negocio de uniformes LATAM | BigQuery · GCP · Looker Studio | — |
+Magíster en Data Science · Universidad de Tasmania · Beca ANID  
+Actualmente: Data Scientist en el sector energía solar (Azure ML · Power BI)
 
 ---
 
-## Stack tecnológico
+### Stack
 
-**ML & Datos**
-
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
-
-**Producción**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Cloud & Analítica**
-
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+| Área | Herramientas |
+|---|---|
+| ML & modelado | LightGBM · scikit-learn · statsforecast · conformal prediction |
+| LLMs & agentes | Ollama · LangChain · LangGraph · llama3.2 (100% local) |
+| MLOps | MLflow · Evidently · Optuna · GitHub Actions · Docker |
+| APIs & serving | FastAPI · Pydantic v2 · Streamlit |
+| Datos | DuckDB · pandas · Python 3.11 · uv |
 
 ---
 
-## Contacto
+### Proyectos de portafolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliopradenas)
-[![Email](https://img.shields.io/badge/pradnas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pradnas@gmail.com)
+| Proyecto | Qué resuelve | Resultado clave |
+|---|---|---|
+| [anomaly-detection-llm](https://github.com/JulioPradenas/anomaly-detection-llm) | Detección de anomalías en logs IT + agente LLM con memoria | F1 = 0.947 · LOF · LangGraph · Evidently · 90 tests |
+| [fraude-tarjeta-credito](https://github.com/JulioPradenas/fraude-tarjeta-credito) | Detección de fraude con costo asimétrico y threshold tuning | LightGBM + XGBoost · FastAPI · 44 tests |
+| [Hierarchical-Demand-Forecasting-System](https://github.com/JulioPradenas/Hierarchical-Demand-Forecasting-System) | Forecasting jerárquico 3.049 series · 6 niveles | MinT reconciliation · DuckDB · 135 tests |
+| [meli-shipping-forecast](https://github.com/JulioPradenas/meli-shipping-forecast) | Demanda de envíos · 27 estados · dataset Olist | WAPE 0.4042 · conformal prediction · Streamlit deployado |
+
+---
+
+### Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio_Pradenas-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/juliopradenas)
+[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:pradnas@gmail.com)
