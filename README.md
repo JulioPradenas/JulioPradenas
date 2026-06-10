@@ -10,13 +10,40 @@ Actualmente: Data Scientist en el sector energía solar (Azure ML · Power BI)
 
 ### Stack
 
-| Área | Herramientas |
-|---|---|
-| ML & modelado | LightGBM · scikit-learn · statsforecast · conformal prediction |
-| LLMs & agentes | Ollama · LangChain · LangGraph · llama3.2 (100% local) |
-| MLOps | MLflow · Evidently · Optuna · GitHub Actions · Docker |
-| APIs & serving | FastAPI · Pydantic v2 · Streamlit |
-| Datos | DuckDB · pandas · Python 3.11 · uv |
+**ML & modelado**
+
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![statsforecast](https://img.shields.io/badge/statsforecast-4A90D9?style=flat&logoColor=white)
+![conformal prediction](https://img.shields.io/badge/conformal_prediction-6C757D?style=flat&logoColor=white)
+
+**LLMs & agentes**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
+![llama3.2](https://img.shields.io/badge/llama3.2-0467DF?style=flat&logo=meta&logoColor=white)
+
+**MLOps**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-ED7D31?style=flat&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3366FF?style=flat&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**APIs & serving**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Datos**
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFC906?style=flat&logo=duckdb&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logoColor=white)
 
 ---
 
